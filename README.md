@@ -75,6 +75,7 @@ It does not command action. It clarifies constraints.
 **Tools**
 - **[Reality Tracing](human-foundations/reality-tracing.md)** — defines the practice itself: tracing constraints, salience, and limits in emergent human systems without collapsing into reductionism or mystification
 - **[Reality Tracing: Infinities and Clamp Modelling](human-foundations/reality-tracing-infinities-and-clamp-modeling.md)** — explains why and how infinities and clamps works in the framework and as a modeling method
+- **[Reality Tracing: Infinities Phenomenology](human-foundations/reality-tracing-infinities-phenomenology.md)** — introduces the concept of 'Infinities Phenomenology', exploring how finite beings perceive infinity as the absence of boundaries. It discusses the implications of missing clamps in governance, morality, and human experience
 
 
 
