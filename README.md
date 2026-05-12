@@ -77,6 +77,7 @@ It does not command action. It clarifies constraints.
 - **[Reality Tracing: Infinities and Clamp Modelling](human-foundations/reality-tracing-infinities-and-clamp-modeling.md)** — explains why and how infinities and clamps works in the framework and as a modeling method
 
 
+
 **Human Foundations**
 - **[Constraints](human-foundations/constraints.md)** — defines non-negotiable limits as the floor of analysis across all systems
 - **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** — dynamics at the interface between mind and outside reality
@@ -136,6 +137,8 @@ It does not command action. It clarifies constraints.
 - **[Interactional Epistemics: Rankability](human-foundations/interactional-epistemics-rankability.md)** — describes a set of rankability criterion for use in comparative study, and to demonstrate false equivalences and false totalizations
 
 - **[Salience Capture Principle and the Plural Clamp Requirement](human-foundations/salience-capture-principle-and-the-plural-clamp-requirement.md)** — explains why no salient sink can remain stable when self-grounding, and why viable systems require competing local ends and real constraints as anti-runaway clamps
+
+- **[Reality Tracing: Infinities Phenomenology](human-foundations/reality-tracing-infinities-phenomenology.md)** — introduces the concept of 'Infinities Phenomenology', exploring how finite beings perceive infinity as the absence of boundaries. It discusses the implications of missing clamps in governance, morality, and human experience
 
 **Constraint-Aware Policy Making and Engineering Strategies II**
 
