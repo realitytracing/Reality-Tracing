@@ -47,6 +47,43 @@ Another:
 
 > The mind searches for an edge. When no edge appears, it names the gap infinity.
 
+## Clarification: Formal Infinity Usually Knows Its Register
+
+This document is concerned primarily with **phenomenological infinity**.
+
+Formal infinities, such as mathematical infinities, usually announce their register.
+
+They live inside declared abstraction-spaces:
+
+- axioms
+- rules
+- proofs
+- notation
+- definitions
+- formal operations
+- model boundaries
+
+This does not make them unreal or unimportant.
+
+It means they are usually clamped by their own formal discipline.
+
+The danger addressed here is different.
+
+It appears when a felt unboundedness, moral demand, political urgency, institutional mandate, or sacred abstraction stops being treated as a bounded phenomenon and begins claiming authority over finite life.
+
+A concise formulation:
+
+> Formal infinity is dangerous mainly when it forgets its register.  
+> Phenomenological infinity is dangerous when missing-boundary feeling becomes mandate.
+
+Another:
+
+> Infinity inside a proof is not the same as infinity inside a police power, moral demand, security doctrine, or political program.
+
+And another:
+
+> The problem is not infinity in abstraction-space. The problem is infinity escaping abstraction-space without a clamp.
+
 ## Purpose
 
 This document explains why finite beings can conceptualize, intuit, fear, desire, theorize, and abstract infinity despite being unable to fully instantiate or experience most infinite structures directly.
