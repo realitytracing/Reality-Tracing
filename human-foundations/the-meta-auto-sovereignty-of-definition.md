@@ -35,6 +35,8 @@ It is not:
 - a denial that experience can be distorted
 - a denial that expert definitions can correct mistaken perception
 - a denial that language requires stabilization
+- a claim that every inherited definition is oppressive
+- a claim that abstraction itself is the enemy
 
 It is a structural warning:
 
@@ -142,6 +144,10 @@ A concise formulation:
 
 > Intuition is not final truth. It is compressed contact that deserves inspection.
 
+Another:
+
+> Intuition is a signal, not a throne.
+
 ## Definition
 
 A **definition** is a stabilizing tool.
@@ -177,11 +183,11 @@ It says, implicitly:
 
 > If lived experience and definition conflict, the definition wins by default.
 
-This is "meta" because it operates before specific arguments begin.
+This is **meta** because it operates before specific arguments begin.
 
-It is "auto" because it installs itself as the default burden structure.
+It is **auto** because it installs itself as the default burden structure.
 
-It is "sovereignty" because it grants definition final jurisdiction unless experience can fight its way back into admissibility.
+It is **sovereignty** because it grants definition final jurisdiction unless experience can fight its way back into admissibility.
 
 A concise formulation:
 
@@ -313,30 +319,70 @@ Another:
 
 ---
 
-III-A. The Ambient Engine (Why This is the Largest False Constraint)
+# IV. The Ambient Engine
 
-​Meta-auto sovereignty is not merely one false constraint among many. It is the largest because it acts as the generator, the judge, and the executor of the false constraint experience itself.
+Meta-auto sovereignty is not merely one false constraint among many.
 
-​Most false constraints require a deliberate author—a tyrant, a bad policy, or a malicious actor forcing a framework onto a population.
-​Meta-auto sovereignty does not require an author. It makes the constraint ambient.
+It is one of the largest false-constraint generators because it can act as:
 
-​The Generator: It produces the felt heaviness of abstractions that aren't actually load-bearing in reality.
+- generator
+- judge
+- executor
 
-​The Judge: It automatically determines which lived experiences count as valid and which are dismissed as irrational, impure, or naive.
+of the false constraint experience itself.
 
-​The Executor: It socially punishes people who trust their lived gravity over the abstraction, without any specific enforcer having to wield a gavel.
+Most false constraints require some visible author:
 
-​Because it runs in the background of ordinary language, default education, and casual conversation, it pre-installs the condition that allows other false constraints (monocoding, unclamped infinities, Core 2 overreach) to operate invisibly.
+- a tyrant
+- a bad policy
+- a malicious actor
+- a coercive institution
+- an explicit doctrine
 
-​A concise formulation:
-​Meta-auto sovereignty is the largest false constraint because it is the operating system on which the others run.
+Meta-auto sovereignty does not always require an author.
 
-​Another:
-​It does not need a dictator. It just needs a dictionary that has forgotten the floor.
+It makes the constraint ambient.
+
+## 1. Generator
+
+It produces the felt heaviness of abstractions that are not actually load-bearing in reality.
+
+A person feels that a definition must be obeyed, even when the definition has lost contact with the lived distinction it was built to preserve.
+
+## 2. Judge
+
+It automatically determines which lived experiences count as valid and which are dismissed as irrational, impure, naive, emotional, subjective, backward, or inadmissible.
+
+## 3. Executor
+
+It socially punishes people who trust lived gravity over the abstraction, without any specific enforcer needing to appear.
+
+Because it runs in the background of ordinary language, default education, institutional categories, and casual conversation, it pre-installs the condition that allows other false constraints to operate invisibly.
+
+These include:
+
+- monocoding
+- unclamped infinities
+- Core 2 overreach
+- moral purity capture
+- legal abstraction drift
+- institutional priesthood
+- scoreboard-floor divergence
+- therapeutic or diagnostic overrule
+- constitutional mythology
+- economic model sovereignty
+
+A concise formulation:
+
+> Meta-auto sovereignty is one of the largest false constraints because it becomes the operating system on which many others run.
+
+Another:
+
+> It does not need a dictator. It just needs a dictionary that has forgotten the floor.
 
 ---
 
-# IV. The Definition-Experience Inversion
+# V. The Definition-Experience Inversion
 
 The proper order is:
 
@@ -364,7 +410,7 @@ Another:
 
 ---
 
-# V. Third-Degree Abstraction and Semantic Capture
+# VI. Third-Degree Abstraction and Semantic Capture
 
 The problem becomes more severe when a definition is backed by third-degree abstraction.
 
@@ -414,96 +460,7 @@ Another:
 
 ---
 
-# VI. The Two Bad Poles
-
-This framework rejects two symmetrical errors.
-
-## 1. Definition Sovereignty
-
-This says:
-
-> The formal definition decides whether experience is valid.
-
-Failure mode:
-
-- abstraction overrules lived signal
-- institutions become priesthood
-- definitions become cages
-- floor damage becomes unaccountable
-- lived contradiction is treated as ignorance
-
-A concise formulation:
-
-> Definition sovereignty mistakes stabilization for truth.
-
-## 2. Experience Sovereignty
-
-This says:
-
-> My experience decides the meaning by itself.
-
-Failure mode:
-
-- intuition becomes uncorrectable
-- prejudice can masquerade as lived truth
-- trauma can become ontology
-- local salience can override broader reality
-- public coordination becomes unstable
-
-A concise formulation:
-
-> Experience sovereignty mistakes contact for completeness.
-
-## The Better Position
-
-The better position is:
-
-> Definitions and lived experience must be weighed against each other under context, consequence, and constraint.
-
-A concise formulation:
-
-> Neither the dictionary nor the feeling is king. The case must be traced.
-
----
-
-# VII. The Triad as Adjudicator
-
-The triad, or any equivalent hard-constraint grounding system, provides the adjudication surface.
-
-When definition and lived experience conflict, ask:
-
-## 1. Local-End and Salience Test
-
-- What lived distinction is being reported?
-- Whose salience is being ignored?
-- What local end is being compressed?
-- Does the definition clarify or erase the experience?
-- Are affected people able to contest the definition?
-
-## 2. Biological and Human Constraint Test
-
-- Can finite humans actually live inside this definition?
-- Does the definition respect pain, fatigue, care, recovery, embodiment, and psychological load?
-- Is the definition demanding impossible purity, impossible endurance, or impossible neutrality?
-
-## 3. Environmental and Material Constraint Test
-
-- What does the definition cause in the world?
-- Does it preserve or damage the material floor?
-- Does it hide costs?
-- Does it write checks reality cannot cash?
-
-A concise formulation:
-
-> Definitions should be judged by whether they keep human life, coordination, and material reality more traceable, not by whether they win a debate inside themselves.
-
-Another:
-
-> The triad prevents definition and experience from becoming rival tyrants.
-
----
-
-# VI-A. The Persistence Defense of Abstraction
+# VII. The Persistence Defense of Abstraction
 
 The critique of definition sovereignty should not collapse into anti-abstraction.
 
@@ -608,7 +565,7 @@ Another:
 
 > Anti-abstraction is what happens when someone sees a false god and declares all tools demonic.
 
-Tiny hammer goblin note: the hammer did not demand worship. That was a user error.
+Tiny hammer goblin note: the hammer did not demand worship. That was user error.
 
 ## Co-Development With Reality
 
@@ -693,27 +650,106 @@ Another:
 
 > The abstraction is healthy while it points. It is dangerous when it rules.
 
-## Structural Principle
+---
 
-A concise principle:
+# VIII. The Two Bad Poles
 
-> Abstractions are necessary persistence infrastructure for finite beings. They preserve, transmit, coordinate, and refine lived contact across time and distance. They become false constraints only when they stop co-developing with reality and gain sovereignty over the lived gravity they were built to carry.
+This framework rejects two symmetrical errors.
 
-A sharper formulation:
+## 1. Definition Sovereignty
 
-> The problem is not abstraction. The problem is abstraction without return.
+This says:
+
+> The formal definition decides whether experience is valid.
+
+Failure modes include:
+
+- abstraction overrules lived signal
+- institutions become priesthood
+- definitions become cages
+- floor damage becomes unaccountable
+- lived contradiction is treated as ignorance
+- semantic consistency replaces reality contact
+
+A concise formulation:
+
+> Definition sovereignty mistakes stabilization for truth.
+
+## 2. Experience Sovereignty
+
+This says:
+
+> My experience decides the meaning by itself.
+
+Failure modes include:
+
+- intuition becomes uncorrectable
+- prejudice can masquerade as lived truth
+- trauma can become ontology
+- local salience can override broader reality
+- public coordination becomes unstable
+- personal certainty replaces correction
+
+A concise formulation:
+
+> Experience sovereignty mistakes contact for completeness.
+
+## The Better Position
+
+The better position is:
+
+> Definitions and lived experience must be weighed against each other under context, consequence, and constraint.
+
+A concise formulation:
+
+> Neither the dictionary nor the feeling is king. The case must be traced.
 
 Another:
 
-> Lived reality gives abstraction its ground. Abstraction gives lived reality persistence. The loop must remain alive.
-
-And another:
-
-> We do not abandon the map. We demand that the map answer to the dirt.
+> The floor decides between the word and the definition when the two diverge.
 
 ---
 
-# VIII. The Gravity Recovery Method
+# IX. The Triad as Adjudicator
+
+The triad, or any equivalent hard-constraint grounding system, provides the adjudication surface.
+
+When definition and lived experience conflict, ask the following.
+
+## 1. Local-End and Salience Test
+
+- What lived distinction is being reported?
+- Whose salience is being ignored?
+- What local end is being compressed?
+- Does the definition clarify or erase the experience?
+- Are affected people able to contest the definition?
+
+## 2. Biological and Human Constraint Test
+
+- Can finite humans actually live inside this definition?
+- Does the definition respect pain, fatigue, care, recovery, embodiment, and psychological load?
+- Is the definition demanding impossible purity, impossible endurance, or impossible neutrality?
+- Does it condemn humans for failing a standard no human can inhabit?
+
+## 3. Environmental and Material Constraint Test
+
+- What does the definition cause in the world?
+- Does it preserve or damage the material floor?
+- Does it hide costs?
+- Does it write checks reality cannot cash?
+- Does it improve coordination, or does it merely protect the abstraction?
+
+A concise formulation:
+
+> Definitions should be judged by whether they keep human life, coordination, and material reality more traceable, not by whether they win a debate inside themselves.
+
+Another:
+
+> The triad prevents definition and experience from becoming rival tyrants.
+
+---
+
+# X. The Gravity Recovery Method
 
 When a word has become captured by definition sovereignty, the first repair task is gravity recovery.
 
@@ -728,6 +764,8 @@ Ask:
 - Who is silenced by it?
 - What experience does the definition refuse to count?
 - What would the word mean if returned to the floor?
+- What would make the definition revise?
+- What happens if the definition keeps winning?
 
 This does not mean abandoning rigor.
 
@@ -745,7 +783,7 @@ Small dictionary goblin note: a definition with no gravity is just a tiny fence 
 
 ---
 
-# IX. Examples
+# XI. Examples
 
 ## Altruism
 
@@ -765,6 +803,10 @@ Correction:
 
 Altruism does not require absence of self-involvement. It requires a genuine goal of improving another's condition, accountable to whether the help actually helps.
 
+A concise formulation:
+
+> The question is not whether the helper felt good. The question is whether the help was actually organized around the other's floor.
+
 ## Freedom
 
 Lived gravity:
@@ -782,6 +824,10 @@ A person can be formally free while materially trapped, and the definition says 
 Correction:
 
 Freedom must be judged through agency, material access, coercion load, exit capacity, and local-end viability.
+
+A concise formulation:
+
+> Freedom without usable life becomes a decorative permission slip.
 
 ## Objectivity
 
@@ -801,6 +847,10 @@ Correction:
 
 Objectivity is disciplined correction under mediation.
 
+A concise formulation:
+
+> Objectivity is not god-access. It is correction under finitude.
+
 ## Constitution
 
 Lived gravity:
@@ -818,6 +868,10 @@ Current floor damage is dismissed because the text or original meaning supposedl
 Correction:
 
 A constitution is an artifact under constraint. It must remain answerable to the lives and conditions it governs.
+
+A concise formulation:
+
+> A constitution is legitimate while it keeps political life corrigible, not while it wins worship.
 
 ## Security
 
@@ -837,9 +891,35 @@ Correction:
 
 Security must remain clamped by what security is for.
 
+A concise formulation:
+
+> Security becomes false when protection consumes what it claims to protect.
+
+## Medicine
+
+Lived gravity:
+
+A patient experiences pain, fatigue, dysfunction, or bodily disturbance.
+
+Definition capture:
+
+A recognized diagnostic category becomes the only admissible form of bodily reality.
+
+False constraint:
+
+The patient cannot be harmed or sick because the experience does not match the official category.
+
+Correction:
+
+Clinical categories are necessary, but they must remain responsive to first-degree bodily report, anomaly, and missing-slice possibility.
+
+A concise formulation:
+
+> A diagnosis is a tool for locating suffering. It becomes domination when it makes suffering impossible to report.
+
 ---
 
-# X. Diagnostics
+# XII. Diagnostics
 
 A definition may have gained meta-auto sovereignty when:
 
@@ -855,6 +935,9 @@ A definition may have gained meta-auto sovereignty when:
 - the definition creates an impossible standard and then condemns humans for failing it
 - the definition makes floor damage invisible
 - experience becomes admissible only after translation into the abstraction's preferred language
+- formal coherence is treated as more important than lived consequence
+- the definition becomes easier to defend than to use
+- the harmed person must prove that harm is semantically possible
 
 A concise formulation:
 
@@ -866,9 +949,9 @@ Another:
 
 ---
 
-# XI. Relation to False Constraints
+# XIII. Relation to False Constraints
 
-False constraints often appear as:
+False constraints often appear as statements such as:
 
 - you cannot call this harm because the category says it is not harm
 - you cannot call this coercion because no one physically forced you
@@ -878,6 +961,8 @@ False constraints often appear as:
 - you cannot call this knowledge because the derivation path is not formalized
 - you cannot call this suffering because the metric improved
 - you cannot call this domination because the institution claims to serve you
+- you cannot call this failure because the model says success increased
+- you cannot call this dependency because the system says it is convenience
 
 These are not always false.
 
@@ -889,9 +974,56 @@ A concise formulation:
 
 > A true definition helps locate reality. A false constraint uses definition to prevent location.
 
+Another:
+
+> The problem is not a hard definition. The problem is a definition that hardens in the wrong place.
+
 ---
 
-# XII. Structural Principle
+# XIV. Relation to Core 1 and Core 2
+
+This principle is a semantic form of Core 2 accountability to Core 1.
+
+Core 1 supplies:
+
+- lived gravity
+- embodied report
+- salience
+- local ends
+- pain
+- burden
+- intuition
+- practical distinction
+- ordinary recognition
+
+Core 2 supplies:
+
+- definition
+- category
+- doctrine
+- law
+- institutional memory
+- technical vocabulary
+- model
+- policy
+- abstraction
+- transmission structure
+
+Core 2 is necessary because Core 1 alone cannot scale.
+
+But Core 2 becomes dangerous when it refuses correction from Core 1.
+
+A concise formulation:
+
+> Definition is Core 2 language trying to preserve Core 1 contact.
+
+Another:
+
+> The semantic failure begins when Core 2 language tells Core 1 that its own contact is inadmissible.
+
+---
+
+# XV. Structural Principle
 
 A concise principle:
 
@@ -975,6 +1107,18 @@ A definition is legitimate when it keeps a lived distinction more traceable.
 
 It becomes domination when it makes the distinction impossible to report.
 
+Abstraction is not the enemy of reality.
+
+Abstraction is one of the ways lived reality survives distance.
+
+But abstraction must co-develop with reality.
+
+The map must answer to the dirt.
+
+The trellis must adjust to the vine.
+
+The definition must answer to the gravity.
+
 The framework points.
 
 The word carries gravity.
@@ -982,4 +1126,3 @@ The word carries gravity.
 The definition must answer.
 
 The case decides.
----
