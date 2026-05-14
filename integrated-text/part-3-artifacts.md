@@ -231,6 +231,8 @@ They are **warnings**.
 
 - **[The Monetary Babysitter Trap](../artifact-analyzed/part-iii-artifacts/the-monetary-babysitter-trap.md)** An artifact based on FRONTLINE'S "Age of Easy Money"
 
+- **[The Altruism-Egoism Conflation](../artifact-analyzed/part-iii-artifacts/the-altruism-egoism-conflation.md)** presents a comprehensive analysis of the altruism versus egoism debate, arguing against the false constraint of pure selflessness and emphasizing the importance of genuine other-orientation in altruistic actions.
+
 Additional hard problem artifacts (e.g. nuclear stability, environmental viability) are handled in **Part IV**, where continued strategic closure is required.
 
 ---
