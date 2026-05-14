@@ -141,6 +141,8 @@ It does not command action. It clarifies constraints.
   
 - **[Reality Tracing: Science Does Not Float](human-foundations/reality-tracing-science-does-not-float.md)** — provides a comprehensive exploration of the nature of science, emphasizing its dynamic and living characteristics as opposed to static authority. It clarifies the misconceptions surrounding scientific knowledge, its derivation, and the importance of friction-accounting in maintaining its validity and relevance.
 
+- **[The Meta-Auto Sovereignty of Definition](human-foundations/the-meta-auto-sovereignty-of-definition.md)** — introduces the concept of the 'Meta-Auto Sovereignty of Definition', discussing how formal definitions can overshadow lived experiences and create false constraints. It outlines the failure patterns and provides a framework for understanding the relationship between definitions and lived experiences.
+
 **Constraint-Aware Policy Making and Engineering Strategies II**
 
 - **[14. The Pedagogical Clamp and Citizen-Side Inspection](constraint-aware-policy-making-and-engineering-strategies/14-the-pedagogical-clamp-and-citizen-side-inspection.md)** — explains a structural framework for "citizen-side inspection" that ensures coordination layers remain legitimate and answerable by requiring them to teach the public how to detect institutional drift, contest claims of necessity, and preserve plural local ends within viable constraints
