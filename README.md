@@ -141,7 +141,7 @@ It does not command action. It clarifies constraints.
   
 - **[Reality Tracing: Science Does Not Float](human-foundations/reality-tracing-science-does-not-float.md)** — provides a comprehensive exploration of the nature of science, emphasizing its dynamic and living characteristics as opposed to static authority. It clarifies the misconceptions surrounding scientific knowledge, its derivation, and the importance of friction-accounting in maintaining its validity and relevance.
 
-- **[The Meta-Auto Sovereignty of Definition](human-foundations/the-meta-auto-sovereignty-of-definition.md)** — introduces the concept of the 'Meta-Auto Sovereignty of Definition', discussing how formal definitions can overshadow lived experiences and create false constraints. It outlines the failure patterns and provides a framework for understanding the relationship between definitions and lived experiences.
+- **[Definition Sovereignty and Semantic Gravity Overreach](human-foundations/definition-sovereignty-and-semantic-gravity-overreach.md)** — introduces a semantic false-constraint framework showing how words can dominate either by overdefined categories overruling lived experience or by undefined semantic gravity pressuring agreement before context, cost, and meaning are traced
 
 **Constraint-Aware Policy Making and Engineering Strategies II**
 
