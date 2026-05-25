@@ -5,7 +5,7 @@ artifact_type: Contextual / Philosophical Artifact
 section: Part III - Contextual Artifacts, Extracted Patterns, and Live Failure Surfaces
 status: Working Draft (Revisable)
 related:
-  - The Meta-Auto Sovereignty of Definition
+  - Definition Sovereignty and Semantic Gravity Overreach
   - Semantic Alignment Rate and Conversational Bandwidth
   - Salience, Live Experience, and the Open World
   - Core 2 Accountability to Core 1 Salience
