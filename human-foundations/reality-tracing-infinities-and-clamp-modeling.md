@@ -769,6 +769,20 @@ That missing structure may initially be best modeled as a virtual tractability c
 
 Some structures later earn stronger objecthood claims precisely because they remain robust across theory change and continued tracing.
 
+## Clamp modeling is not reductio ad absurdum.
+
+Reductio extends a claim in order to expose contradiction, impossibility, or absurdity. Its usual function is to defeat, reject, or sharply revise the claim.
+
+Clamp modeling extends a process or abstraction in order to identify what prevents unconstrained continuation in reality. 
+
+Its usual function is not to defeat the abstraction, but to recover the missing boundary conditions, interactions, and sustaining constraints that make the real system tractable.
+
+Reductio asks: “Does this claim collapse if extended?”
+
+Clamp modeling asks: “If this continuation does not occur in reality, what stops, redirects, dissipates, or transforms it?”
+
+Therefore, infinity in clamp modeling is not automatically a disproof. It is a diagnostic signal. The result may be rejection, but it may also be refinement, scoping, decomposition, nesting, or conditional validation.
+
 ---
 
 # 18. Methodological Principle
