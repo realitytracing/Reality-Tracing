@@ -74,7 +74,9 @@ It does not command action. It clarifies constraints.
 
 **Tools**
 - **[Reality Tracing](human-foundations/reality-tracing.md)** — defines the practice itself: tracing constraints, salience, and limits in emergent human systems without collapsing into reductionism or mystification
+- **[Reality Tracing: Abstraction, Substitution, and Generative Adequacy](human-foundations/reality-tracing-abstraction-substitution-and-generative-adequacy.md)** — Distinguishes abstraction altitude from abstraction failure; develops Descriptive–Generative Asymmetry, the Substitution Test, generative loss, Trace-Bypass Error, perturbation/reslicing, and the boundary between descriptive usefulness and generative authority
 - **[Reality Tracing: Infinities and Clamp Modelling](human-foundations/reality-tracing-infinities-and-clamp-modeling.md)** — explains why and how infinities and clamps works in the framework and as a modeling method
+- **[Reality Tracing: Clamp Specification and Local Trace](human-foundations/reality-tracing-clamp-specification-and-local-trace.md)** — Separates clamp detection from clamp specification; establishes “protocol default, specification earned,” defines the local information required to justify a clamp, and prevents reusable methods from becoming universal answer-generators
 
 
 **Human Foundations**
