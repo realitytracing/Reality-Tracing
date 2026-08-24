@@ -6,6 +6,8 @@ section: "Foundational Epistemics / Finitude, Abstraction, and Clamp Logic"
 status: "Working Draft (Revisable)"
 related:
   - "Institutionalizing the Clamp"
+  - "Abstraction, Substitution, and Generative Adequacy"
+  - "Clamp Specification and Local Trace"
   - "The Continuous Need for Finiteness Clarity"
   - "Reality Tracing"
   - "Taxonomy of Abstractions"
@@ -384,6 +386,14 @@ Another:
 
 > A clamp does not abolish the demand. It prevents the demand from eating the world.
 
+But identifying that a good requires a clamp does not yet determine the local specification of that clamp.
+
+The relevant scope, rate, threshold, burden, and revision conditions must still be traced.
+
+A concise formulation:
+
+> Finding the missing boundary does not yet tell us where the boundary belongs.
+
 # VII. Why Clamping Feels Like Betrayal
 
 When people are captured by an infinity, clamping can feel like desecration.
@@ -585,6 +595,9 @@ When infinity appears in thought, politics, morality, theology, economics, or in
 - What would prove the demand has become harmful?
 - What finite lives are being asked to carry the infinity?
 - What abstraction is gaining authority from the absence of a limit?
+- Can two cases inside the same abstraction require different stopping conditions?
+- What slice must be declared before the abstraction can become mandate?
+- What local variables would change the specification?
 
 A concise formulation:
 
@@ -594,29 +607,30 @@ Another:
 
 > When you feel infinity, ask what boundary failed to appear.
 
-# XII. Infinities and Third-Degree Abstraction
+# XII. Infinities and Abstraction Failure
 
-Infinities often live in third-degree abstraction.
+Infinities can appear at many abstraction levels.
 
-Examples:
+Third-degree abstraction is not inherently infinite, closed, or defective.
 
-- eternal nation
-- infinite enemy
-- endless progress
-- perfect purity
-- total justice
-- final liberation
-- permanent revolution
-- infinite security
-- universal optimization
-- absolute market freedom
-- complete historical destiny
+A higher-order abstraction may be:
 
-These are not close to lived signal.
+- useful
+- accurate
+- downward-traceable
+- inquiry-generative
+- formally disciplined
+- operationally powerful
 
-They are abstractions built on abstractions.
+The relevant failure is not altitude alone.
 
-They may begin from real first-degree experience:
+The danger appears when an abstraction loses distinctions required to locate a boundary, stopping condition, burden, or local response, and is then allowed to act as though those distinctions were still present.
+
+A concise formulation:
+
+> Abstraction height is not the pathology. Unbounded authority after decision-relevant compression is.
+
+Many public infinities begin from real first-degree salience:
 
 - fear
 - hunger
@@ -626,16 +640,81 @@ They may begin from real first-degree experience:
 - instability
 - injustice
 - disorder
+- confinement
+- exclusion
 
-But once abstracted upward, they may lose downward traceability.
+Those first-degree signals may remain fully real.
+
+The problem begins when the legitimacy of the lived signal is transferred upward into a higher-order mandate without preserving the distinctions needed to determine:
+
+- who is affected
+- what constraint is being removed or imposed
+- what burden is shifted
+- what would count as enough
+- what would count as too much
+- what scale is relevant
+- what time horizon is relevant
+- what would require revision or retraction
+
+Examples include:
+
+- freedom
+- justice
+- security
+- equality
+- liberation
+- peace
+- dignity
+- order
+- accountability
+
+These terms may remain anchored in real human experience while also functioning as high-order abstractions.
+
+Therefore, the correct warning is not:
+
+> third-degree abstraction is too far from lived reality
+
+but:
+
+> a high-order abstraction may borrow authority from lived reality while failing to preserve the discriminations required to generate a finite mandate.
+
+This is a form of **Descriptive–Generative Asymmetry**.
+
+A term may successfully summarize or organize many lower-order experiences while remaining too coarse to generate one specific policy, obligation, clamp, or stopping rule.
+
+The Substitution Test asks:
+
+> Can two lower-order cases remain inside the same abstraction while requiring materially different judgments?
+
+If yes, the abstraction cannot by itself author the judgment.
+
+This matters especially for phenomenological infinities because high-salience abstractions can make the missing boundary feel morally absolute.
+
+A person may genuinely feel:
+
+> I am not free enough.
+
+That is a lived report.
+
+An institution saying:
+
+> therefore this policy produces more freedom
+
+has entered a different epistemic role.
+
+The policy claim must now declare the slice.
 
 A concise formulation:
 
-> Third-degree infinity begins when lived pressure becomes an abstraction without a stopping rule.
+> First-degree invocation deserves listening. Core 2 invocation owes accounting.
 
 Another:
 
-> Infinite abstractions are most dangerous when they can no longer take the elevator back down to lived reality.
+> Infinite aspiration may remain human. Infinite administration does not.
+
+And another:
+
+> The moral force of the signal does not automatically supply the specification of the mandate.
 
 # XIII. Infinity as Salience Amplifier
 
@@ -786,6 +865,10 @@ A sharper formulation:
 
 Another:
 
+> Abstraction altitude does not create the danger by itself. The danger appears when a compressed abstraction is allowed to govern beyond the distinctions it preserved.
+
+Another:
+
 > When an abstraction feels infinite, the first discipline is not worship or dismissal. It is clamp tracing.
 
 Another:
@@ -838,6 +921,8 @@ This requires:
 - public accounting surfaces
 - emergency termination criteria
 - distinction between aspiration and mandate
+- distinction between descriptive abstraction and generative authority
+- distinction between clamp detection and clamp specification
 - distinction between sacred meaning and coercive administration
 - distinction between infinite contemplation and infinite governance
 
@@ -896,7 +981,9 @@ That matters because political, moral, economic, and institutional life is full 
 
 These often begin as real goods.
 
-But when their boundaries disappear, they become demands without stopping conditions.
+They may also remain anchored in real first-degree human experience.
+
+But when their boundaries disappear, or when a higher abstraction is allowed to generate a mandate without preserving the distinctions required to locate those boundaries, they become demands without stopping conditions.
 
 Then finite people are asked to carry infinite pressure.
 

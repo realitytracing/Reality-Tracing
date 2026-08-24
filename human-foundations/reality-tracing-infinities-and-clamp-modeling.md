@@ -4,6 +4,9 @@ artifact_type: Methodological Core Note
 section: Foundational Epistemics / Method
 status: Working Draft (Revisable)
 related:
+  - Reality Tracing
+  - Abstraction, Substitution, and Generative Adequacy
+  - Clamp Specification and Local Trace
   - Interactional Epistemics
   - Constraints
   - Layered Reality and Constraint Coupling
@@ -12,7 +15,6 @@ related:
   - Salience
   - Local Ends
   - Habituation
-  - Reality Tracing
 ---
 
 # Infinities and Clamp Modeling
@@ -42,6 +44,16 @@ Where an abstraction appears to run toward infinity, one of several things is us
 
 This document formalizes that method and explains why, despite the primacy of virtual categories at coarse grain, **objecthood still matters**.
 
+It also draws an important boundary:
+
+**detecting a clamp is not the same as specifying the correct local clamp.**
+
+Clamp modeling can identify that some stopping, shaping, containing, or redirecting function is missing from an abstraction.
+
+It cannot, from the abstract method alone, determine the correct thickness, scope, rate, implementation, or normative use of that clamp in every domain.
+
+Those require a local trace.
+
 ---
 
 ## Status
@@ -56,6 +68,7 @@ It explains how the framework uses infinities and clamps to:
 - prevent runaway abstraction
 - refine coarse models into better ones
 - distinguish virtual categories from stronger object claims
+- distinguish clamp detection from locally earned clamp specification
 
 This document does **not** claim that clamps are final objects.
 
@@ -312,6 +325,20 @@ A concise formulation:
 Another:
 
 **A clamp is a coarse-grained tractability category for whatever stops the infinity.**
+
+This definition does not yet tell us what the clamp should be in practice.
+
+Knowing that a system requires some rate limit does not tell us the correct rate.
+
+Knowing that an institution requires some review boundary does not tell us the correct review interval.
+
+Knowing that an abstraction requires some semantic specification does not tell us how narrow or broad the definition should be.
+
+Those are specification questions.
+
+A clamp category identifies a missing or load-bearing boundary function.
+
+A clamp specification must be earned from the local trace that gives that function its actual conditions.
 
 ---
 
@@ -570,7 +597,69 @@ Each pass gives finer resolution.
 
 ---
 
-# 12. The Method Is Recursive
+## 11.1 Clamp Detection Is Not Clamp Specification
+
+The infinities-and-clamps method can identify that some boundary function is missing from a model.
+
+It can also help identify:
+
+- what continuation is being limited
+- what medium or constraint plane carries the interaction
+- what conditions sustain the clamp
+- what happens when the clamp fails
+- what variables require further tracing
+
+But the method does not automatically determine the correct local clamp specification.
+
+For example:
+
+- identifying that attention is finite does not determine the correct workload for every person
+- identifying that ecosystems have replenishment limits does not determine one universal extraction rate
+- identifying that institutions require review does not determine one universal review interval
+- identifying that semantic categories require enough stability for coordination does not determine one universal definition thickness
+- identifying that markets require constraints does not determine one universal regulatory regime
+
+The reason is structural.
+
+Higher-order clamp categories may preserve the **shape of inquiry** while omitting the local variables that determine the answer.
+
+Therefore:
+
+\[
+\text{Clamp Method} + \text{Local Trace} \rightarrow \text{Local Specification}
+\]
+
+but not:
+
+\[
+\text{Clamp Method} \rightarrow \text{Local Specification}
+\]
+
+A concise formulation:
+
+**Protocol default, specification earned.**
+
+Another:
+
+**The method may universalize the questions farther than it can universalize the answers.**
+
+This protects clamp modeling from being flattened into slogans such as:
+
+- balance
+- moderation
+- boundedness
+- sustainability
+- "not too much, not too little"
+
+Those phrases may describe some successful clamps.
+
+They do not contain enough information to specify the clamp by themselves.
+
+A dedicated clamp-specification note develops the local specification discipline.
+
+---
+
+# 12. The Method Is Inquiry-Generative
 
 One of the strengths of the method is that it is not limited to a single explanatory pass.
 
@@ -592,7 +681,18 @@ Then the method continues:
 - what sets that rate limit?
 - what conditions make that clamp fail?
 
-This makes the method generative.
+This makes the method **inquiry-generative**.
+
+It generates:
+
+- better questions
+- candidate mechanisms
+- finer distinctions
+- failure tests
+- scope checks
+- new traces
+
+It does not mean the abstract method can generate the correct local answer without further reality contact.
 
 A good clamp explanation is not necessarily final.
 It is the current tractable answer at a given resolution.
@@ -600,6 +700,10 @@ It is the current tractable answer at a given resolution.
 A concise formulation:
 
 **You can keep asking what stops the infinity, what stops that stopper, and under what conditions the stopping fails — and each pass gives finer structure.**
+
+Another:
+
+**The method generates the next trace, not the final answer in advance.**
 
 ---
 
@@ -737,6 +841,16 @@ It asks:
 
 This makes the method a natural tool inside reality tracing.
 
+It also means clamp modeling must remain answerable to abstraction discipline.
+
+A higher-order clamp category may remain useful while becoming too coarse for a particular task.
+
+If two lower-order cases fit the same clamp category but require materially different judgments or specifications, the higher category cannot by itself author that result.
+
+The abstraction remains usable.
+
+Its jurisdiction has been exceeded.
+
 Objecthood matters here as well, because some structures are not just useful for one trace.
 They become anchor points across many traces.
 
@@ -807,6 +921,14 @@ A fifth:
 
 **An object is something reality keeps making us rediscover, even though every rediscovery remains mediated by abstraction.**
 
+A sixth:
+
+**Clamp detection identifies the boundary function; local tracing earns the specification.**
+
+A seventh:
+
+**Clamp modeling is inquiry-generative, not a universal answer generator.**
+
 ---
 
 # Final Compression
@@ -839,5 +961,17 @@ The method is recursive:
 - identify the conditions of the clamp
 - identify the failure of the clamp
 - refine the model
+
+But clamp detection is not clamp specification.
+
+The method can preserve the shape of inquiry across domains while still requiring local information before a clamp's thickness, scope, rate, implementation, or normative use is warranted.
+
+Therefore:
+
+**Clamp Method + Local Trace → Local Specification**
+
+not:
+
+**Clamp Method → Local Specification**
 
 Used well, this method improves tractability, reveals missing structure, disciplines object claims, and prevents abstraction from outrunning the conditions that make finite coherent life, thought, and systems possible.

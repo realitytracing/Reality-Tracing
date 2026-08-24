@@ -43,11 +43,40 @@ Reality Tracing begins from the assumption that:
 - We are constrained agents inside the system we are trying to understand  
 - Energy, attention, salience, habituation, incentives, embodiment, and history impose limits  
 
-Constraints are treated as first-class objects.
+Constraints are treated as first-class analytical features.
 
 Models come second.
 
 Models are compressions under constraint — not sovereign descriptions of reality.
+
+### 1.1 Abstraction Is Task-Relative
+
+Reality Tracing does not judge an abstraction by altitude alone.
+
+A higher-order abstraction may remain useful, accurate, and downward-traceable while still being too coarse for a particular inference, judgment, or intervention.
+
+Therefore, two questions must be kept distinct:
+
+- Can the abstraction be traced back to the lower-order realities that produced it?
+- Does the abstraction preserve the distinctions required for the task now being asked of it?
+
+If lower-order cases remain interchangeable inside the abstraction but require materially different judgments once traced, the abstraction cannot by itself author that judgment.
+
+This does not invalidate the abstraction.
+
+It limits its generative authority.
+
+A concise formulation:
+
+> A valid compression is not automatically a valid generator.
+
+Reality Tracing therefore treats abstraction as task-relative:
+
+- useful for one purpose
+- insufficient for another
+- always answerable to renewed contact with the trace
+
+A dedicated abstraction note develops this distinction through generative adequacy, substitution, and trace-bypass diagnostics.
 
 ---
 
